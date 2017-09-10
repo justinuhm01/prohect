@@ -1,0 +1,1 @@
+this is a text file encoded with ANSI by Memopad
